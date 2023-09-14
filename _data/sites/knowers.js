@@ -6,6 +6,7 @@ module.exports = {
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://warm-zabaione-85b038.netlify.app/"
+		"https://warm-zabaione-85b038.netlify.app/",
+		"https://warm-zabaione-85b038.netlify.app/blog/"
 	]
 };
